@@ -12,7 +12,7 @@ class RouteApp extends Component {
 
         return (
             <div className="RouteApp">
-                <Router history={history}>
+                <Router history={history} basename="/CMPE_285_frontend">
                     <Switch>
                         <Route exact path="/" component={App}/>
                         <Route path="/results" component={ResultApp}/>
