@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://dendukuriravikiran.github.io/CMPE_285_frontend/precache-manifest.1b7f549fa27f44d21b9003698a0cb898.js"
+  "https://dendukuriravikiran.github.io/CMPE_285_frontend/precache-manifest.e7db67aa482a7f3e94752e114c591112.js"
 );
 
 self.addEventListener('message', (event) => {
