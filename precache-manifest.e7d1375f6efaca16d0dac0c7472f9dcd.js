@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e053ba449bf488c19a3817de2f3d4a4",
+    "revision": "87939dd07d82373c28f8484cad8c9c3f",
     "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/2.929389fa.chunk.css"
   },
   {
-    "revision": "15ddada3f966bf2670fa",
+    "revision": "d7d358b9e3a6cbe2c793",
     "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/main.7bedab26.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/2.061c2734.chunk.js"
   },
   {
-    "revision": "15ddada3f966bf2670fa",
-    "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/main.6061818c.chunk.js"
+    "revision": "d7d358b9e3a6cbe2c793",
+    "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/main.82550e70.chunk.js"
   },
   {
     "revision": "f26c1ba649559fc1caad",
