@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc33c7c58dff6b3551dccd2374ebb184",
+    "revision": "ede0f721d7cefa8e5891ed57d71f2d02",
     "url": "https://dendukuriravikiran.github.io/CMPE_285_frontend/index.html"
   },
   {
