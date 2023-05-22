@@ -223,9 +223,9 @@ class App extends Component {
         this.setState({current: 3});
         message.info('Fetching Results');
         let query = {};
-        query.Amount = this.state.amount;
-        query.Strategies = this.state.selectedItems;
-        console.log(query.Strategies);
+        query.amount = this.state.amount;
+        query.strategy = this.state.selectedItems;
+
         const stringified = queryString.stringify(query);
 
 
