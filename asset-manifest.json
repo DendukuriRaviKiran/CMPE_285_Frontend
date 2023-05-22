@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "http://18.191.67.212/static/css/main.7bedab26.chunk.css",
-    "main.js": "http://18.191.67.212/static/js/main.e9d49e09.chunk.js",
-    "main.js.map": "http://18.191.67.212/static/js/main.e9d49e09.chunk.js.map",
-    "runtime~main.js": "http://18.191.67.212/static/js/runtime~main.3bcfc0c9.js",
-    "runtime~main.js.map": "http://18.191.67.212/static/js/runtime~main.3bcfc0c9.js.map",
-    "static/css/2.929389fa.chunk.css": "http://18.191.67.212/static/css/2.929389fa.chunk.css",
-    "static/js/2.55010e4b.chunk.js": "http://18.191.67.212/static/js/2.55010e4b.chunk.js",
-    "static/js/2.55010e4b.chunk.js.map": "http://18.191.67.212/static/js/2.55010e4b.chunk.js.map",
-    "index.html": "http://18.191.67.212/index.html",
-    "precache-manifest.756445c4dcabf1603de13ef0366b367d.js": "http://18.191.67.212/precache-manifest.756445c4dcabf1603de13ef0366b367d.js",
-    "service-worker.js": "http://18.191.67.212/service-worker.js",
-    "static/css/2.929389fa.chunk.css.map": "http://18.191.67.212/static/css/2.929389fa.chunk.css.map",
-    "static/css/main.7bedab26.chunk.css.map": "http://18.191.67.212/static/css/main.7bedab26.chunk.css.map"
+    "main.css": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/main.7bedab26.chunk.css",
+    "main.js": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/main.4f39d17c.chunk.js",
+    "main.js.map": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/main.4f39d17c.chunk.js.map",
+    "runtime~main.js": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/runtime~main.affce59d.js",
+    "runtime~main.js.map": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/runtime~main.affce59d.js.map",
+    "static/css/2.929389fa.chunk.css": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/2.929389fa.chunk.css",
+    "static/js/2.061c2734.chunk.js": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/2.061c2734.chunk.js",
+    "static/js/2.061c2734.chunk.js.map": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/js/2.061c2734.chunk.js.map",
+    "index.html": "https://dendukuriravikiran.github.io/CMPE_285_frontend/index.html",
+    "precache-manifest.b9550887cb3ead9af53ff162c7d579af.js": "https://dendukuriravikiran.github.io/CMPE_285_frontend/precache-manifest.b9550887cb3ead9af53ff162c7d579af.js",
+    "service-worker.js": "https://dendukuriravikiran.github.io/CMPE_285_frontend/service-worker.js",
+    "static/css/2.929389fa.chunk.css.map": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/2.929389fa.chunk.css.map",
+    "static/css/main.7bedab26.chunk.css.map": "https://dendukuriravikiran.github.io/CMPE_285_frontend/static/css/main.7bedab26.chunk.css.map"
   }
 }
