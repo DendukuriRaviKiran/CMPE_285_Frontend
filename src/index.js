@@ -7,4 +7,4 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<RouteApp/>, document.getElementById('root'));
 
-serviceWorker.unregister();
+//serviceWorker.unregister();
